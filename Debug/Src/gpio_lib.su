@@ -1,2 +1,0 @@
-../Src/gpio_lib.c:22:6:Delay_ms	24	static
-../Src/gpio_lib.c:27:6:GPIO_Init	4	static
