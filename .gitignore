@@ -3,3 +3,4 @@ Debug/
 *.elf
 *.map
 *.d
+*.launch
